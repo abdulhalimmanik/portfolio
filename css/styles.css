@@ -10268,3 +10268,6 @@ header.masthead h1 {
   border-color: #9C27B0 transparent transparent transparent;
 }
 
+.social-icon a:hover {
+  text-decoration: none;
+}
